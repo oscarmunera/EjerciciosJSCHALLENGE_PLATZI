@@ -1,0 +1,19 @@
+{
+  "name": "database_course",
+  "version": "1.0.0",
+  "description": "Ejercicios del curso fundamentos de base de datos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarmunera/EjerciciosJSCHALLENGE_PLATZI.git"
+  },
+  "author": "OMUNERA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oscarmunera/EjerciciosJSCHALLENGE_PLATZI/issues"
+  },
+  "homepage": "https://github.com/oscarmunera/EjerciciosJSCHALLENGE_PLATZI#readme"
+}
